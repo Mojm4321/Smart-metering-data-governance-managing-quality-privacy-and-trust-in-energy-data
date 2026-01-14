@@ -1,4 +1,4 @@
-# Smart Metering Data Governance: Managing Quality, Privacy And Trust In Energy Data 
+# Smart Metering Data Governance: Managing Quality, Privacy And Trust In Energy Data **Next Project**
 ## By Jolly Madamedon (Case Study Sourced From the British Academy and the Royal Society)
 
 # Introduction & Context
