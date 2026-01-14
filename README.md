@@ -1,1 +1,2 @@
-# Smart-metering-data-governance-managing-quality-privacy-and-trust-in-energy-data
+# Smart Metering Data Governance: Managing Quality, Privacy And Trust In Energy Data
+## By Jolly Madamedon
