@@ -29,25 +29,15 @@ To design and implement a robust smart metering data governance framework that d
 ## Governance Principles
 
 ### Security at a National Scale
-Smart meters are critical infastructure and data must be stored and processed securely to be protected from cyber and physical attacks, unauthorised access, data loss, misuse, systemic disruptions,and financial risks. Ensuring secure storage and governance preserves data integrity and quality, making sure that data is accurate, complete and unaltered throughout it's lifecycle. Reliable data serves as a trustworthy reference for analytics and patterns.
-
-Compromised security can have serious consequences, including incorrect billing, loss of public trust, regulatory breaches and threats to national infastructure. Such incidents place immense pressure on data architecture, as companies must respond to multiple issues simultaneously.
+Smart meters are critical infrastructure and data must be stored and processed securely to be protected from cyber and physical attacks, unauthorised access, data loss, misuse, systemic disruptions and financial risks. Ensuring secure storage and governance preserves data integrity and quality, making sure that data is accurate, complete and unaltered throughout it's lifecycle. Reliable data serves as a trustworthy reference for analytics and patterns. Compromised security can have serious consequences, including incorrect billing due to tampering, loss of public trust, regulatory breaches and threats to national infastructure. Such incidents place immense pressure on data architecture, as companies must respond to multiple issues simultaneously.
 
 ### Privacy by design
-Smart metering data must be collected, stored, shared and used in way that respects individual privacy rights, ensures informed consent and maintains transparency over how data is processed and shared with the data subject. Privacy protection must also be embedded into smart metering systems from the oustet, not added retrospectively. 
-
-As personal and sensitive information is constantly at risk, privacy policies and standards cannot be applied only in specific situations or at the organisation's discretion. Clear policies define who can access the data and for what purpose, enforced through inpenatrable access controls. Data subjects must be able to understand and exercise their rights at any point, including choices over data sharing and visibility into how their data is used. Transparent governance builds trust while ensuring compliance with data protection and energy regulations.
+Smart metering data must be collected, stored, shared and used in way that respects individual privacy rights, ensures informed consent and maintains transparency over how data is processed and shared with the data subject. Privacy protection should be embedded into smart metering systems from the oustet, not added retrospectively as personal and sensitive information is constantly at risk, privacy policies and standards cannot be applied only in specific situations or at the organisation's discretion. Data subjects must be able to understand and exercise their rights at any point, including choices over data sharing and visibility into how their data is used. Transparent governance builds trust while ensuring compliance with data protection and energy regulations.
 
 ### Proportionality
-The granularity, frequency, and use of data must be proportionate to the purpose it serves. More data isn't always better or necessary.
-
-### Data minimisation
-Only the minimum amount of data required to achieve a defined outcome or target should be collected or retained.
-
-### Transparency
-Individuals must be able to understand what part of their data is collected, how it used, and the implications of their consent choices.
+The granularity, frequency, and use of data must be proportionate to the purpose it serves. Collecting more data than necessary is not beneficial, so data should be limited to what is required and retained only for as long as needed. Limiting unnecessary data storage reduces duplication, inconsistency and data decay, making it easier to manage, govern and maintain high quality data essential for long term success of an organisation.
 
 ### Accountability
-Clear ownership, responsibility and oversight must be prioritised for governance decisions to be justified, audited or enforced.
+Clear ownership and accountability must be established across the smart metering lifecylce to ensure governance decisions can be justified, audited and enforced for responsible data management. Defined roles and responsibilities guarantee that data quality, security, privacy, access and retention are actively managed and highlighted rather than assumed. Ownership and collaboration across an organisation enables timely issue resolution, foster strong relationships between technology and business teams, support regulatory assurance and ensure data remains accurate, consistent, secure and well understood by those responsible for its use.
 
 ## Governance Strategic Objectives 
