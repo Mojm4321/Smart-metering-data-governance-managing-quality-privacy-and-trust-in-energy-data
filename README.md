@@ -2,7 +2,7 @@
 ## By Jolly Madamedon 
 ## (Project based on a case study produced for the British Academy and the Royal Society)
 
-## Context & Governance Challenge
+### Context & Governance Challenge
 Smart meters are advanced digital devices that record household electricity consumption and transmit usage data at regular intervals. This enables more accurate billing, improved visibility of energy use and greater operational efficiency across the energy system. In the UK, the smart meter programme is supplier-led, supported by government policy (originally overseen by BEIS) and regulated by Ofgem. The programme aims to modernise the national energy infrastructure, reduce inefficiences and support more cost-effective energy use for households over the long term.
 
 The UK Government has strongly supported data-driven innovation within the energy industry, aiming to 'ensure that every home and business was offered a smart meter by 2020, delivered as cost-effectively as possible'. However smart meters generate highly granular household data, introducing significant data governance challenges. Energy consumption data can reveal personal and sensitive insights into household behaviour, such as: occupancy patterns, daily routines, entertainment preferences and socioeconomic status creating heightened risks related to privacy, consent, data minimisation, proportionality, security, and data retention.
@@ -15,7 +15,7 @@ Smart metering data governance is therefore critical to define clear rules, role
 
 Effective governance ensures that smart meter data is used responsibly, lawfully and transparently, balancing the benefits of advanced data use with the protection of individual rights. This case study examines the key governance challenges and opportunities associated with smart metering data by analysing privacy, security, consent and proportionality risks, and demonstrating how governance frameworks-supported by technical controls and institutional oversight, can enable innovation and operational value while managing ethical, legal and societal risk.
 
-## Vision and Mission
+### Vision and Mission
 Data is a vital enterprise asset, underpinning operational effiecncy, innovation and regulatory compliance. While many orgnaisations recognise its value, far fewer have the governance structure required to manage data effectively across its lifecycle and convert it into sustainable business and societal value.
 
 Effective data governance provides clarity around who is accountable for data, how data is managed through defined policies, standards and processes and what technologies enable and support governance activities. By aligning people, processes and technology, governance enables organistion to maximise the value of data while ensuring its lawful, ethical and responsible use.
