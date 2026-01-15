@@ -29,6 +29,7 @@ To design and implement a robust smart metering data governance framework that d
 ## Governance Principles
 
 ### Privacy by design
+Privacy protection must be embedded into smart metering systems from the oustet.
 
 ### Proportionality
 
