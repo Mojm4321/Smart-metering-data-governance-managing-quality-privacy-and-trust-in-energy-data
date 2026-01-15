@@ -2,6 +2,8 @@
 ## By Jolly Madamedon 
 ### (Case study produced by the British Academy and the Royal Society)
 
+![image](https://github.com/Mojm4321/Smart-metering-data-governance-managing-quality-privacy-and-trust-in-energy-data/blob/82f0020d383b195502946dcf12eddd78b1853a6f/Intro%20Case%20Study.png)
+
 ## Context & Governance Challenge
 Smart meters are advanced digital devices that record household electricity consumption and transmit usage data at regular intervals. This enables more accurate billing, improved visibility of energy use and greater operational efficiency across the energy system. In the UK, the smart meter programme is supplier-led, supported by government policy (originally overseen by BEIS) and regulated by Ofgem. The programme aims to modernise the national energy infrastructure, reduce inefficiencies and support more cost-effective energy use for households over the long term.
 
