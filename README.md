@@ -26,6 +26,18 @@ To establish an accurate, transparent, trusted and secure smart metering data ec
 ### Mission
 To design and implement a robust smart metering data governance framework that defines clear ownership, policies, standards and controls across the data lifecycle. The framework will embed data quality, privacy, security, storage and proportionality by design, enabling responsible data use while supporting innovation and system wide efficiency.
 
-## Strategic Objectives 
+## Governance Principles
 
-## Principles
+### Privacy by design
+
+### Proportionality
+
+### Data minimisation
+
+### Transparency
+
+### Security
+
+### Accountability
+
+## Governance Strategic Objectives 
