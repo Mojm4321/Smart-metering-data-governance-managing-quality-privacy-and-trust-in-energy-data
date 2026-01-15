@@ -19,3 +19,8 @@ Effective governance ensures that smart meter data is used responsibly, lawfully
 Data is a vital enterprise asset, underpinning operational effiecncy, innovation and regulatory compliance. While many orgnaisations recognise its value, far fewer have the governance structure required to manage data effectively across its lifecycle and convert it into sustainable business and societal value.
 
 Effective data governance provides clarity around who is accountable for data, how data is managed through defined policies, standards and processes and what technologies enable and support governance activities. By aligning people, processes and technology, governance enables organistion to maximise the value of data while ensuring its lawful, ethical and responsible use.
+
+### Vision
+To establish a governed, transparent, trusted and secure smart metering data ecosystem that enables innovation, operational efficiency and public value, while protecting individual rights and maintaining public trust.
+
+### Mission
