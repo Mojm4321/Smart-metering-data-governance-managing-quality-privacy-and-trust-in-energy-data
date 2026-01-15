@@ -2,7 +2,7 @@
 ## By Jolly Madamedon 
 ## (Project based on a case study produced for the British Academy and the Royal Society)
 
-# Context & Governance Challenge
+## Context & Governance Challenge
 Smart meters are advanced digital devices that record household electricity consumption and transmit usage data at regular intervals. This enables more accurate billing, improved visibility of energy use and greater operational efficiency across the energy system. In the UK, the smart meter programme is supplier-led, supported by government policy (originally overseen by BEIS) and regulated by Ofgem. The programme aims to modernise the national energy infrastructure, reduce inefficiences and support more cost-effective energy use for households over the long term.
 
 The UK Government has strongly supported data-driven innovation within the energy industry, aiming to 'ensure that every home and business was offered a smart meter by 2020, delivered as cost-effectively as possible'. However smart meters generate highly granular household data, introducing significant data governance challenges. Energy consumption data can reveal personal and sensitive insights into household behaviour, such as: occupancy patterns, daily routines, entertainment preferences and socioeconomic status creating heightened risks related to privacy, consent, data minimisation, proportionality, security, and data retention.
