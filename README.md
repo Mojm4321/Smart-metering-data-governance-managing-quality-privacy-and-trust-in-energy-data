@@ -20,12 +20,12 @@ Data is a vital enterprise asset, underpinning operational effiecncy, innovation
 
 Effective data governance provides clarity around who is accountable for data, how data is managed through defined policies, standards and processes and what technologies enable and support governance activities. By aligning people, processes and technology, governance enables organisations to maximise the value of data while ensuring its lawful, ethical and responsible use.
 
-## Strategic Objectives 
-
-## Principles
-
 ### Vision
 To establish an accurate, transparent, trusted and secure smart metering data ecosystem that enables innovation, operational efficiency and public value, while protecting individual rights and maintaining public trust.
 
 ### Mission
 To design and implement a robust smart metering data governance framework that defines clear ownership, policies, standards and controls across the data lifecycle. The framework will embed data quality, privacy, security, storage and proportionality by design, enabling responsible data use while supporting innovation and system wide efficiency.
+
+## Strategic Objectives 
+
+## Principles
