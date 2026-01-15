@@ -1,6 +1,6 @@
 # (IN PROGRESS) Smart Metering Data Governance: Managing Data Quality, Privacy And Trust
 ## By Jolly Madamedon 
-### (Case study produced by the British Academy and the Royal Society)
+###             (Case study produced by the British Academy and the Royal Society)
 
 ![image](https://github.com/Mojm4321/Smart-metering-data-governance-managing-quality-privacy-and-trust-in-energy-data/blob/82f0020d383b195502946dcf12eddd78b1853a6f/Intro%20Case%20Study.png)
 
