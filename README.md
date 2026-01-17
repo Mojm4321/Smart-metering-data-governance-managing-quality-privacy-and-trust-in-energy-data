@@ -1,7 +1,7 @@
 # (IN PROGRESS) Smart Metering Data Governance: Managing Data Quality, Privacy And Trust
 ## By Jolly Madamedon
 
-![image](https://github.com/Mojm4321/Smart-metering-data-governance-managing-quality-privacy-and-trust-in-energy-data/blob/82f0020d383b195502946dcf12eddd78b1853a6f/Intro%20Case%20Study.png)
+![image](https://github.com/Mojm4321/Smart-metering-data-governance-managing-quality-privacy-and-trust-in-energy-data/blob/82f0020d383b195502946dcf12eddd78b1853a6f/Intro%20Case%20Study.png) 
 
 ## Context & Governance Challenge
 Smart meters are advanced digital devices that record household electricity consumption and transmit usage data at regular intervals. This make billing more accurate, makes it easier to see how much energy is used and greater operational efficiency across the energy system. The smart meter programme is supplier-led, supported by government policy (originally overseen by BEIS) and regulated by Ofgem. The programme aims to modernise the national energy infrastructure, reduce inefficiencies and support more cost-effective energy use for households over the long term.
