@@ -47,9 +47,11 @@ In addition, strong privacy governance ensures that data use remains lawful, aud
 Furthermore, data subjects must be able to clearly understand and exercise their rights at any point, including making informed choices over data sharing and visibility into how their data is accessed, shared and used. Transparent privacy governance therefore strenghtens public trust while ensuring compliance with data protection and energy regulations.
 
 ### Proportionality
-The granularity, frequency, and use of data must be proportionate to the purpose it serves. Collecting more data than necessary increase governance risk, so data should be limited to what is required and retained only for as long as needed.
+To prevent unnecessary risk accumulation, the granularity, frequency, use and retention of smart metering data must be proportionate to it's intended purpose, because collecting more data than necessary increases governance risk without delivering additional value.
 
-Limiting unnecessary data storage reduces duplication, inconsistency and data decay. It also makes it easier to manage, govern and maintain high quality data. High quality data is essential for the long term success of an organisation.
+This principle is implemented through data minimisation by limiting unnecessary collection and retention. As a result, organisation's reduce duplication, data decay and compliance burden, while ensuring data remains high quality and aligned with external regulatory requirements.
+
+### Quality
 
 ### Accountability
 Clear ownership and accountability must be established across the smart metering lifecylce. This ensure governance decisions can be justified, audited and enforced for responsible data management. Defined roles and responsibilities guarantee that data quality, security, privacy, access and retention are actively managed and highlighted rather than assumed. 
