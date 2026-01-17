@@ -38,25 +38,25 @@ Effective governance addresses these risks by prioritising data integrity and qu
 It is important to note that compromised security results in serious consequences. These include financial errors, regulatory breaches, service disruption, and loss of public trust. Such incidents place immense pressure on both technical teams and organisations' response mechanisms, as companies must manage multiple risks simultaneously across 
 
 ### Privacy by design
-Although security protects the system, privacy governance protects individuals. It ensures that smart metering data is collected, stored, shared and used lawfully, with informed consent and clear transparency over how data is processed. For this reason, privacy protection should be embedded into smart metering systems from the oustet, rather than added reactively.
+While security protects the system, privacy governance protects individuals. It ensures that smart metering data is collected, stored, shared, and used lawfully, with informed consent and clear transparency over how data is processed. For this reason, privacy protection should be embedded into smart metering systems from the outset, rather than added reactively.
 
-As consumption data is inherently personal and sensitive, privacy policies and standards must be applied consistently across the organisation, rather than being left to individual discretion. This consistency is achieved through clearly defined access rules, supported by access controls and senior oversight. Together, these measures define who can access data, under what conditions, and for which specific purposes.
+As consumption data is inherently personal and sensitive, privacy policies and standards must be applied consistently across the organisation, rather than being left to individual discretion. This consistency is achieved through clearly defined access rules, supported by access controls and senior oversight. Together, these measures define who can access the data, under what conditions, and for which specific purposes.
 
 In addition, strong privacy governance ensures that data use remains lawful, auditable and accountable. Where misuse occurs, defined escalation and enforcement mechanisms enable timely intervention, protecting data subjects and the organisation's exposure to regulatory penalties and reputational risk.
 
-Furthermore, data subjects must be able to clearly understand and exercise their rights at any point, including making informed choices over data sharing and visibility into how their data is accessed, shared and used. Transparent privacy governance therefore strenghtens public trust while ensuring compliance with data protection and energy regulations.
+Furthermore, data subjects must be able to clearly understand and exercise their rights at any point, including making informed choices over data sharing and visibility into how their data is accessed, shared, and used. Transparent privacy governance, therefore, strengthens public trust while ensuring compliance with data protection and energy regulations.
 
 ### Proportionality
-To prevent unnecessary risk accumulation, the granularity, frequency, use and retention of smart metering data must be proportionate to it's intended purpose, because collecting more data than necessary increases governance risk without delivering additional value.
+To prevent unnecessary risk accumulation, the granularity, frequency, use, and retention of smart metering data must be proportionate to its intended purpose, because collecting more data than necessary increases governance risk without delivering additional value.
 
-This principle is implemented through data minimisation by limiting unnecessary collection and retention. As a result, organisation's reduce duplication, data decay and compliance burden, while ensuring data remains high quality and aligned with external regulatory requirements.
+This principle is implemented through data minimisation by limiting unnecessary collection and retention. As a result, organisations reduce duplication, data decay, and the compliance burden while ensuring data remains high-quality and aligned with external regulatory requirements.
 
 ### Quality
-Security, privacy and proportionality are only effective if the data itself can be trusted. Smart metering data must therefore be accurate, complete, consistent and timely to support billing, operational decision making, analytics and regulatory reporting. 
+Security, privacy, and proportionality are only effective if the data itself can be trusted. Smart metering data must therefore be accurate, complete, consistent, and timely to support billing, operational decision making, analytics, and regulatory reporting. 
 
-Achieving this requires a strong data quality framework defining the relevant data quality dimensions, embedding a culture of quality across the organisation, enabling issues to be detected and resolved at source and managing data quality at every stage of the data lifecycle. Only then can smart metering systems be considered trustworthy.
+Achieving this requires a structured data quality framework that defines the quality dimensions, embeds accountability, enables issues to be detected and resolved at source, and manages data quality throughout the data lifecycle. With clear standards, validation controls, and continuous monitoring, the data becomes fit for purpose.
 
-Consistent management of data across the full lifecycle, from collection or generation through to the downstream use, retention or deletion is what builds a strong foundation for data, but the collboration is what is needed for this to work. Clear standards, validation controls, and monitoring is the on foot work that ensures data is fit for purpose.
+Consistent data management supported by collaboration between technical and business teams establishes a strong foundation for accurate data and consistent value creation.
 
 ### Accountability
 All governance principles rely on clear ownership and accountability. Defined roles and reponsibilities must be established across the smart metering lifecycle to ensure governance decisions can be justified, audited and enforced. 
