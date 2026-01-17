@@ -42,7 +42,7 @@ While security protects the system, privacy governance protects individuals. It 
 
 As consumption data is inherently personal and sensitive, privacy policies and standards must be applied consistently and at the organisation's discretion. This is achieved through clear access rules, supported by access controls and senior oversight help define who can access data, when they can access it and for what purpose. This is turn ensures that data must only be used lawfully, and if not there are internal policing to eradicate this.
 
-Furthermore, data subjects must be able to understand and exercise their rights at any point, including choices over data sharing and visibility into how their data is used. Transparent governance builds trust while ensuring compliance with data protection and energy regulations.
+Furthermore, data subjects must be able to clearly understand and exercise their rights at any point, including making informed choices over data sharing and visibility into how their data is shared and used. Transparent governance fixes this potential issue by strenghtening public trust while ensuring compliance with data protection and energy regulations.
 
 ### Proportionality
 The granularity, frequency, and use of data must be proportionate to the purpose it serves. Collecting more data than necessary increase governance risk, so data should be limited to what is required and retained only for as long as needed.
