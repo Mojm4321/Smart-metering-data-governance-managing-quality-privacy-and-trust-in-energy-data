@@ -62,3 +62,10 @@ Consistent data management supported by collaboration between technical and busi
 All governance principles rely on clear ownership and accountability. Defined roles and reponsibilities must be established across the smart metering lifecycle to ensure governance decisions can be justified, audited and enforced. 
 
 Strong ownership and collaboration enable timely issue resolution and support regulatory assurance, by ensuring that responsibilities are clearly understood. Together, these foundations ensure data remains accurate, consistent, secure and well understood by those responsible for its management and use.
+
+## Governance Objectives
+- Embed privacy by design into smart metering systems and processes to ensure lawful, transparent and consent-based data use in line with UK GDPR, the Data Protection Act 2018 and relevant energy sector regulation, including the Smart Energy Code.
+- Establish controls to make sure that data is accurate, complete, and consistent from creation/collection through to downstream use, retention and deletion. This includes defining clear data quality dimensions and implementing a published data quality framework that can be used to assess, monitor, and improve data quality on a large scale.
+- Safeguard data from cyber and physical threats ensuring the avaibaility and integrity of data across the national energy network.
+- Apply proportional data use controls including data minimisation to ensure that data collection, use and retention are limited to what is necessary for defined legal, operational and regulatory purposes.
+
