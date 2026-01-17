@@ -16,8 +16,11 @@ Therefore, smart metering data governance is critical because it must define cle
 
 By balancing the benefits of advanced data use with the protection of individual rights, effective governance ensures that smart meter data is used responsibly, lawfully, and transparently. This case study examines the key governance challenges and opportunities associated with smart metering data by analysing privacy, security, quality, accountability and proportionality risks, and demonstrating how governance frameworks (supported by technical controls and institutional oversight) can enable innovation and operational value while managing ethical, legal, and societal risk.
 
-![image](https://github.com/Mojm4321/Smart-metering-data-governance-managing-quality-privacy-and-trust-in-energy-data/blob/9a8c52c001c0edcd9c8b4e2040061d26a021eca7/Vision%20%26%20Mission.png) 
+
 ## Vision and Mission
+
+![image](https://github.com/Mojm4321/Smart-metering-data-governance-managing-quality-privacy-and-trust-in-energy-data/blob/9a8c52c001c0edcd9c8b4e2040061d26a021eca7/Vision%20%26%20Mission.png) 
+
 Data is a vital business asset. However, few organisations have the governance frameworks required to manage data consistently throughout its lifecycle or to transform it into long-term business and societal value, despite many recognising its value.
 
 Effective data governance provides clarity around who is accountable for data, decision-making, and data use. Through defined policies, standards, and controls, governance aligns people, processes, and technology to maximise the value of data while ensuring its responsible, lawful, and value-driven use.
@@ -29,6 +32,8 @@ To establish a transparent, secure, and accurate smart metering data ecosystem t
 To design and implement a practical smart metering data governance framework that defines policies, standards, roles, responsibilities, and processes across the data lifecycle. The framework will prioritise data quality, privacy, security, storage, and proportionality by design, enabling responsible data use at a national scale.
 
 ## Governance Principles
+
+![image](https://github.com/Mojm4321/Smart-metering-data-governance-managing-quality-privacy-and-trust-in-energy-data/blob/bc4d6a9d3eb35b4b76bb16ddc0555c3cc35fe876/Principles.png)
 
 ### Security at a National Scale
 Smart meters are essential components of the UK's national energy infrastructure, so smart metering data must be stored and processed securely to be protected from cyber and physical attacks, unauthorised access, data loss, misuse, and systemic disruption. 
@@ -64,8 +69,11 @@ All governance principles rely on clear ownership and accountability. Defined ro
 Strong ownership and collaboration enable timely issue resolution and support regulatory assurance, by ensuring that responsibilities are clearly understood. Together, these foundations ensure data remains accurate, consistent, secure and well understood by those responsible for its management and use.
 
 ## Governance Objectives
+
+![image](https://github.com/Mojm4321/Smart-metering-data-governance-managing-quality-privacy-and-trust-in-energy-data/blob/4c66075e150f47500da52c9bf64c7ce19df3b7c2/Objectives%202.png)
+
 - Embed privacy by design into smart metering systems and processes to ensure lawful, transparent, and consent-based data use in line with UK GDPR, the Data Protection Act 2018, and relevant energy sector regulation, including the Smart Energy Code.
 - Build a data quality culture to make sure that data is accurate, complete, and consistent from creation/collection through to downstream use, retention, and deletion. This includes defining clear data quality dimensions and implementing a published data quality framework to assess, monitor, and improve data quality at scale.
 - Safeguard data from cyber and physical threats, ensuring the availability and integrity of data across the national energy network.
 - Apply proportional data use controls, including data minimisation, to ensure that data collection, use, and retention are limited to what is necessary for defined legal, operational, and regulatory purposes.
-
+- 
