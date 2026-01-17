@@ -31,18 +31,18 @@ To design and implement a practical smart metering data governance framework tha
 ## Governance Principles
 
 ### Security at a National Scale
-Smart meters are essential components of the UK's national energy infrastructure. Therefore, smart metering data must be stored and processed securely to be protected from cyber and physical attacks, unauthorised access, data loss, misuse and systemic disruption. 
+Smart meters are essential components of the UK's national energy infrastructure, so smart metering data must be stored and processed securely to be protected from cyber and physical attacks, unauthorised access, data loss, misuse and systemic disruption. 
 
-Effective governance addresses these risks by preserving data integrity and quality at scale. This ensures that data remains accurate, complete and unaltered across millions of households connected to the energy network. This trusted data can then be used reliably for billing analysis and pattern analysis while remaining within defined security and privacy boundaries.
+Effective governance addresses these risks by prioritising data integrity and quality at scale. This ensures that data remains accurate, complete and unaltered across millions of households connected to the energy network. This trusted data can then be used reliably for billing analysis and pattern analysis while remaining within defined security and privacy boundaries.
 
-It is important to mention that when security is compromised, the consequences are significant. These include financial errors, regulatory breaches, service disruption and loss of public trust. Such incidents place immense pressure on both technical teams and organisations response mechanisms, as companies must manage multiple risks simultaneously across several data architectures.
+It is important to mention that when security is compromised, it results in serious consequences. These include financial errors, regulatory breaches, service disruption and loss of public trust. Such incidents place immense pressure on both technical teams and organisations response mechanisms, as companies must manage multiple risks simultaneously across several data architectures.
 
 ### Privacy by design
-Smart metering data must be collected, stored, shared and used in way that respects individual privacy rights, ensures informed consent and maintains transparency over how data is processed and shared. Privacy protection should be embedded into smart metering systems from the oustet, not added retrospectively.
+While security protects the system, privacy governance protects individuals. It ensures that smart metering data is collected, stored, shared and used lawfully, ensures informed consent and maintains transparency. This is why privacy protection should be embedded into smart metering systems from the oustet, not added retrospectively.
 
-As personal and sensitive information is constantly at risk, privacy policies and standards must be applied consistently, not only in specific situations or at the organisation's discretion. Clear policies define who can access data and for what purpose. Access is enforced through strong access controls and reported to senior officials to ensure transparency and enable easy tracking in case of misuse.
+As consumption data is inherently personal and sensitive, privacy policies and standards must be applied consistently and at the organisation's discretion. This is achieved through clear access rules, supported by access controls and senior oversight help define who can access data, when they can access it and for what purpose. This is turn ensures that data must only be used lawfully, and if not there are internal policing to eradicate this.
 
-Data subjects must be able to understand and exercise their rights at any point, including choices over data sharing and visibility into how their data is used. Transparent governance builds trust while ensuring compliance with data protection and energy regulations.
+Furthermore, data subjects must be able to understand and exercise their rights at any point, including choices over data sharing and visibility into how their data is used. Transparent governance builds trust while ensuring compliance with data protection and energy regulations.
 
 ### Proportionality
 The granularity, frequency, and use of data must be proportionate to the purpose it serves. Collecting more data than necessary increase governance risk, so data should be limited to what is required and retained only for as long as needed.
