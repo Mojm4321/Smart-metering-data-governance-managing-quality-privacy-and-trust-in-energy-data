@@ -38,11 +38,13 @@ Effective governance addresses these risks by prioritising data integrity and qu
 It is important to mention that when security is compromised, it results in serious consequences. These include financial errors, regulatory breaches, service disruption and loss of public trust. Such incidents place immense pressure on both technical teams and organisations response mechanisms, as companies must manage multiple risks simultaneously across several data architectures.
 
 ### Privacy by design
-While security protects the system, privacy governance protects individuals. It ensures that smart metering data is collected, stored, shared and used lawfully, ensures informed consent and maintains transparency. This is why privacy protection should be embedded into smart metering systems from the oustet, not added retrospectively.
+Although security protects the system, privacy governance protects individuals. It ensures that smart metering data is collected, stored, shared and used lawfully, with informed consent and clear transparency over how data is processed. For this reason, privacy protection should be embedded into smart metering systems from the oustet, rather than added reactively.
 
-As consumption data is inherently personal and sensitive, privacy policies and standards must be applied consistently and at the organisation's discretion. This is achieved through clear access rules, supported by access controls and senior oversight help define who can access data, when they can access it and for what purpose. This is turn ensures that data must only be used lawfully, and if not there are internal policing to eradicate this.
+As consumption data is inherently personal and sensitive, privacy policies and standards must be applied consistently across the organisation, rather than being left to individual discretion. This consistency is achieved through clearly defined access rules, supported by access controls and senior oversight. Together, these measures define who can access data, under what conditions, and for which specific purposes.
 
-Furthermore, data subjects must be able to clearly understand and exercise their rights at any point, including making informed choices over data sharing and visibility into how their data is shared and used. Transparent governance fixes this potential issue by strenghtening public trust while ensuring compliance with data protection and energy regulations.
+In addition, strong privacy governance ensures that data use remains lawful, auditable and accountable. Where misuse occurs, defined escalation and enforcement mechanisms enable timely intervention, protecting data subjects and the organisation's exposure to regulatory penalties and reputational risk.
+
+Furthermore, data subjects must be able to clearly understand and exercise their rights at any point, including making informed choices over data sharing and visibility into how their data is accessed, shared and used. Transparent privacy governance therefore strenghtens public trust while ensuring compliance with data protection and energy regulations.
 
 ### Proportionality
 The granularity, frequency, and use of data must be proportionate to the purpose it serves. Collecting more data than necessary increase governance risk, so data should be limited to what is required and retained only for as long as needed.
