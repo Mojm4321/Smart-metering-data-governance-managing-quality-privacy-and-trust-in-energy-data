@@ -17,12 +17,12 @@ Therefore it is critical to define clear roles, responsibilities, policies, stan
 By balancing the benefits of advanced data use with the protection of individual rights, strong governance ensures that smart meter data is used responsibly, lawfully and transparently. This case study examines the key governance challenges and opportunities associated with smart metering data by analysing privacy, security, consent and proportionality risks, and demonstrating how governance frameworks-supported by technical controls and institutional oversight, can enable innovation and operational value while managing ethical, legal and societal risk.
 
 ## Vision and Mission
-Data is a vital business asset that supports innovation, operational efficiency and regulatory compliance. However, few organisations have the governance frameworks required to manage data consistently across its lifecycle or transform it into long term business and societal value, despite the fact many recognise it's value.
+Data is a vital business asset. However, few organisations have the governance frameworks required to manage data consistently across its lifecycle or transform it into long term business and societal value, despite the fact many recognise it's value.
 
 Effective data governance provides clarity around who is accountable for data, decision making and data use. Through defined policies, standards and controls, governance aligns people, processes and technology, to maximise the value of data while ensuring responsible, lawful and value driven use of data.
 
 ### Vision
-To establish a smart metering data ecosystem that is transparent, secure and trustworthy, that supports innovation, operational efficiency, while protecting individual rights and maintaining public trust.
+To establish a transparent, secure and trustworthy smart metering data ecosystem that supports innovation, operational efficiency, while protecting individual rights and maintaining public trust.
 
 ### Mission
 To design and implement a practical smart metering data governance framework that defines policies, standards, roles, responsibilities and processes across the data lifecycle. The framework prioritises data quality, privacy, security, storage and proportionality by design, enabling responsible data use at a national scale.
