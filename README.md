@@ -59,6 +59,6 @@ Achieving this requires a strong data quality framework defining the relevant da
 Consistent management of data across the full lifecycle, from collection or generation through to the downstream use, retention or deletion is what builds a strong foundation for data, but the collboration is what is needed for this to work. Clear standards, validation controls, and monitoring is the on foot work that ensures data is fit for purpose.
 
 ### Accountability
-Clear ownership and accountability must be established across the smart metering lifecylce. This ensure governance decisions can be justified, audited and enforced for responsible data management. Defined roles and responsibilities guarantee that data quality, security, privacy, access and retention are actively managed and highlighted rather than assumed. 
+All governance principles rely on clear ownership and accountability. Defined roles and reponsibilities must be established across the smart metering lifecycle to ensure governance decisions can be justified, audited and enforced. 
 
-Ownership and collaboration across an organisation enables timely issue resolution. They also foster strong relationships between technology and business teams, support regulatory assurance and ensure data remains accurate, consistent, secure and well understood by those responsible for its use.
+Ownership and collaboration played a big part across an organisation in enabling timely issue resolution and build strong relationships between technology and business teams and support regulatory assurance. These foundations ensure data remains accurate, consistent, secure and well understood by those responsible for its use and management.
