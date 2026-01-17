@@ -61,4 +61,4 @@ Consistent data management supported by collaboration between technical and busi
 ### Accountability
 All governance principles rely on clear ownership and accountability. Defined roles and reponsibilities must be established across the smart metering lifecycle to ensure governance decisions can be justified, audited and enforced. 
 
-Ownership and collaboration played a big part across an organisation in enabling timely issue resolution and build strong relationships between technology and business teams and support regulatory assurance. These foundations ensure data remains accurate, consistent, secure and well understood by those responsible for its use and management.
+Strong ownership and collaboration enable timely issue resolution and support regulatory assurance, by ensuring that responsibilities are clearly understood. Together, these foundations ensure data remains accurate, consistent, secure and well understood by those responsible for its management and use.
