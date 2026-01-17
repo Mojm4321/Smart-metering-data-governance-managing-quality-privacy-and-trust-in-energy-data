@@ -4,7 +4,7 @@
 ![image](https://github.com/Mojm4321/Smart-metering-data-governance-managing-quality-privacy-and-trust-in-energy-data/blob/82f0020d383b195502946dcf12eddd78b1853a6f/Intro%20Case%20Study.png) 
 
 ## Context & Governance Challenge
-Smart meters are advanced digital devices that record household electricity consumption and transmit usage data at regular intervals. This makes billing more accurate, makes it easier to see how much energy is used, and results in greater operational efficiency across the energy system. In the UK, the smart meter programme is supplier-led, supported by government policy (originally overseen by BEIS) and regulated by Ofgem. The programme aims to modernise the national energy infrastructure, reduce inefficiencies, and support more cost-effective household energy use in the long term.
+Smart meters are advanced digital devices that record household electricity consumption and transmit usage data at regular intervals. This makes billing more accurate, makes it easier to see how much energy is used, and results in greater operational efficiency across the energy system. In the UK, the smart meter programme is supplier-led, supported by government policy (originally overseen by BEIS) and regulated by Ofgem. The programme aims to modernise the national energy infrastructure, reduce inefficiencies, and, in the long term, support more cost-effective household energy use.
 
 The UK Government has strongly supported data-driven innovation within the energy industry, aiming to 'ensure that every home and business was offered a smart meter by 2020, delivered as cost-effectively as possible'. However, smart meters generate highly granular household data, introducing significant data governance challenges. Data on energy use can reveal personal and sensitive information about household behaviour, such as occupancy patterns, daily routines, entertainment preferences, and socioeconomic status. This raises privacy, consent, data minimisation, proportionality, security, and data retention risks.
 
@@ -23,7 +23,7 @@ Data is a vital business asset. However, few organisations have the governance f
 Effective data governance provides clarity around who is accountable for data, decision-making, and data use. Through defined policies, standards, and controls, governance aligns people, processes, and technology to maximise the value of data while ensuring its responsible, lawful, and value-driven use.
 
 ### Vision
-To establish a transparent, secure, and accurate smart metering data ecosystem that protecting individuals rights.
+To establish a transparent, secure, and accurate smart metering data ecosystem that protects individuals' rights.
 
 ### Mission
 To design and implement a practical smart metering data governance framework that defines policies, standards, roles, responsibilities, and processes across the data lifecycle. The framework will prioritise data quality, privacy, security, storage, and proportionality by design, enabling responsible data use at a national scale.
@@ -31,11 +31,11 @@ To design and implement a practical smart metering data governance framework tha
 ## Governance Principles
 
 ### Security at a National Scale
-Smart meters are essential components of the UK's national energy infrastructure, so smart metering data must be stored and processed securely to be protected from cyber and physical attacks, unauthorised access, data loss, misuse and systemic disruption. 
+Smart meters are essential components of the UK's national energy infrastructure, so smart metering data must be stored and processed securely to be protected from cyber and physical attacks, unauthorised access, data loss, misuse, and systemic disruption. 
 
-Effective governance addresses these risks by prioritising data integrity and quality at scale. This ensures that data remains accurate, complete and unaltered across millions of households connected to the energy network. This trusted data can then be used reliably for billing analysis and pattern analysis while remaining within defined security and privacy boundaries.
+Effective governance addresses these risks by prioritising data integrity and quality at scale. This ensures that data remains accurate and unaltered across millions of households connected to the energy network. This trusted data can then be used reliably for billing analysis and pattern analysis while remaining within defined security and privacy boundaries.
 
-It is important to mention that when security is compromised, it results in serious consequences. These include financial errors, regulatory breaches, service disruption and loss of public trust. Such incidents place immense pressure on both technical teams and organisations response mechanisms, as companies must manage multiple risks simultaneously across several data architectures.
+It is important to note that compromised security results in serious consequences. These include financial errors, regulatory breaches, service disruption, and loss of public trust. Such incidents place immense pressure on both technical teams and organisations' response mechanisms, as companies must manage multiple risks simultaneously across 
 
 ### Privacy by design
 Although security protects the system, privacy governance protects individuals. It ensures that smart metering data is collected, stored, shared and used lawfully, with informed consent and clear transparency over how data is processed. For this reason, privacy protection should be embedded into smart metering systems from the oustet, rather than added reactively.
