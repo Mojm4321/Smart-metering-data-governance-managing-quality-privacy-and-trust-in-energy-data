@@ -16,6 +16,7 @@ Therefore it is critical to define clear roles, responsibilities, policies, stan
 
 By balancing the benefits of advanced data use with the protection of individual rights, strong governance ensures that smart meter data is used responsibly, lawfully and transparently. This case study examines the key governance challenges and opportunities associated with smart metering data by analysing privacy, security, consent and proportionality risks, and demonstrating how governance frameworks-supported by technical controls and institutional oversight, can enable innovation and operational value while managing ethical, legal and societal risk.
 
+![image](https://github.com/Mojm4321/Smart-metering-data-governance-managing-quality-privacy-and-trust-in-energy-data/blob/9a8c52c001c0edcd9c8b4e2040061d26a021eca7/Vision%20%26%20Mission.png) 
 ## Vision and Mission
 Data is a vital business asset. However, few organisations have the governance frameworks required to manage data consistently across its lifecycle or transform it into long term business and societal value, despite the fact many recognise it's value.
 
@@ -30,9 +31,11 @@ To design and implement a practical smart metering data governance framework tha
 ## Governance Principles
 
 ### Security at a National Scale
-Smart meters are essential components of the national energy infrastructure, therefore data must be stored and processed securely to be protected from cyber and physical attacks, unauthorised access, data loss, misuse, systemic disruptions and financial risks. Data integrity and quality are maintained through safe storage and governance. This ensures that data is accurate, complete and unaltered throughout it's lifecycle.  For analytics and pattern analysis, reliable data is a reliable source.
+Smart meters are essential components of the UK's national energy infrastructure. Therefore, smart metering data must be stored and processed securely to be protected from cyber and physical attacks, unauthorised access, data loss, misuse and systemic disruption. 
 
-Serious consequences may result from compromised security. These include: financial errors, service disruption, regulatory breaches, loss of public trust and threats to national infastructure. Such incidents place immense pressure on data architecture, as companies must respond to multiple issues simultaneously.
+Effective governance addresses these risks by preserving data integrity and quality at scale. This ensures that data remains accurate, complete and unaltered across millions of households connected to the energy network. This trusted data can then be used reliably for billing analysis and pattern analysis while remaining within defined security and privacy boundaries.
+
+It is important to mention that when security is compromised, the consequences are significant. These include financial errors, regulatory breaches, service disruption and loss of public trust. Such incidents place immense pressure on both technical teams and organisations response mechanisms, as companies must manage multiple risks simultaneously across several data architectures.
 
 ### Privacy by design
 Smart metering data must be collected, stored, shared and used in way that respects individual privacy rights, ensures informed consent and maintains transparency over how data is processed and shared. Privacy protection should be embedded into smart metering systems from the oustet, not added retrospectively.
