@@ -18,9 +18,9 @@ By balancing the benefits of advanced data use with the protection of individual
 
 ![image](https://github.com/Mojm4321/Smart-metering-data-governance-managing-quality-privacy-and-trust-in-energy-data/blob/9a8c52c001c0edcd9c8b4e2040061d26a021eca7/Vision%20%26%20Mission.png) 
 ## Vision and Mission
-Data is a vital business asset. However, few organisations have the governance frameworks required to manage data consistently across its lifecycle or transform it into long term business and societal value, despite the fact many recognise it's value.
+Data is a vital business asset. However, few organisations have the governance frameworks required to manage data consistently throughout its lifecycle or to transform it into long-term business and societal value, despite many recognising its value.
 
-Effective data governance provides clarity around who is accountable for data, decision making and data use. Through defined policies, standards and controls, governance aligns people, processes and technology, to maximise the value of data while ensuring responsible, lawful and value driven use of data.
+Effective data governance provides clarity around who is accountable for data, decision-making, and data use. Through defined policies, standards, and controls, governance aligns people, processes, and technology to maximise the value of data while ensuring its responsible, lawful, and value-driven use.
 
 ### Vision
 To establish a transparent, secure and trustworthy smart metering data ecosystem that supports innovation, operational efficiency, while protecting individual rights and maintaining public trust.
