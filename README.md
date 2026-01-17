@@ -52,6 +52,11 @@ To prevent unnecessary risk accumulation, the granularity, frequency, use and re
 This principle is implemented through data minimisation by limiting unnecessary collection and retention. As a result, organisation's reduce duplication, data decay and compliance burden, while ensuring data remains high quality and aligned with external regulatory requirements.
 
 ### Quality
+Security, privacy and proportionality are only effective if the data itself can be trusted. Smart metering data must therefore be accurate, complete, consistent and timely to support billing, operational decision making, analytics and regulatory reporting. 
+
+Achieving this requires a strong data quality framework defining the relevant data quality dimensions, embedding a culture of quality across the organisation, enabling issues to be detected and resolved at source and managing data quality at every stage of the data lifecycle. Only then can smart metering systems be considered trustworthy.
+
+Consistent management of data across the full lifecycle, from collection or generation through to the downstream use, retention or deletion is what builds a strong foundation for data, but the collboration is what is needed for this to work. Clear standards, validation controls, and monitoring is the on foot work that ensures data is fit for purpose.
 
 ### Accountability
 Clear ownership and accountability must be established across the smart metering lifecylce. This ensure governance decisions can be justified, audited and enforced for responsible data management. Defined roles and responsibilities guarantee that data quality, security, privacy, access and retention are actively managed and highlighted rather than assumed. 
