@@ -97,14 +97,17 @@ They are senior business leaders responsible for specific smart metering data do
 Data management is a core responsibility for them, and they drive this early across the organisation to create a strong data foundation and set a clear precedent for effective data governance.
 
 ### Data Steward
-Data stewards are responsible for the operational oversight of assigned data and ensure all smart metering data is clearly defined, accurate, well understood and fit for purpose. They act on behalf of the data owner and manage data definitions, business rules, metadata and quality standards across the organisation. 
+Data stewards are responsible for the operational oversight of assigned data and ensure all smart metering data is clearly defined, accurate, well understood and fit for purpose. They act on behalf of the data owner and manage data definitions, business rules, metadata and enforce quality standards across the organisation. 
 
 They do this by interacting and collaborating closely with subject matter experts, business teams and technical teams to resolve day-to-day data issues, ensure standardisation across systems, and measure and monitor data quality requirements so that they are embedded at the source. 
 
 ### Data Custodian
+Data custodians are technology specialists who are responsible for the secure storage and technical management of smart metering data to ensure it is safeguarded through strong technical and security controls. They supervise the environments in which smart metering data is stored and processed and ensure that maintenance and implementation of these security controls support access management, backup systems and data sharing rules. 
 
+These measures are critical to ensure data availability, integrity and protection against cyber and physical threats, giving the organisation confidence that its infrastructure effectively manages data risks.
 
 ### Data Quality Manager
+
 
 ### Data Privacy Officer
 
