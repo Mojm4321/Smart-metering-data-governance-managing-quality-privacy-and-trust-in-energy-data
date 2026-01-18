@@ -81,8 +81,8 @@ Strong ownership and collaboration enable timely issue resolution and support re
 ## Operating Model 
 ![image](https://github.com/Mojm4321/Smart-metering-data-governance-managing-quality-privacy-and-trust-in-energy-data/blob/d1439b7a154b558d8a54f4e1f25df8548274ec78/Operating%20model%20J.png)
 
-### Executive Governance Council 
-The Executive Governance Council sets the overall governance direction and provides strategic oversight across the organisation. It approves the policies and standards developed by the data governance council to make sure they align with regulatory obligations and the organisation’s strategic objectives. The council also ensures that all risks and breaches are highlighted and addressed promptly and provide senior sponsorship to formally support the organisation's plans, to avoid misinterpretation and to encourage consistent collaboration across teams. Most importantly, to ensure the effective execution of these plans, the council guarantees sufficient investment in data governance capabilities throughout the smart metering programme lifecycle.
+### Executive Governance Council (EGC)
+The Executive Governance Council sets the overall governance direction and provides strategic oversight across the organisation. They approve the policies and standards developed by the data governance council to make sure they align with regulatory obligations and the organisation’s strategic objectives. The EGC also ensure that all risks and breaches are highlighted and addressed promptly and provide senior sponsorship to formally support the organisation's plans, to avoid misinterpretation and to encourage consistent collaboration across teams. Most importantly, to ensure the effective execution of these plans, the council guarantees sufficient investment in data governance capabilities throughout the smart metering programme lifecycle.
 
 ### Data Governance Council (DGC)
 The Data Governance Council is responsible for implementing data governance principles across all smart metering operations to provide consistent oversight and strict alignment to approved standards. They facilitate coordination and collaboration across departments to support effective decision-making and ensure everyone is on the same page across the organisation. An organisation in misalignment is a silent killer of efficiency and effectiveness.
@@ -90,8 +90,16 @@ The Data Governance Council is responsible for implementing data governance prin
 The DGC approve data policies, standards and quality frameworks and ensure the consistent application of governance controls across suppliers, systems and third-party partners so that all parties understand they all operate under the same. Understanding that defining a data governance strategy alone is not enough to really create real value in data. The DGC ensures that it is translated into practical, operational policies, standards and objectives that are embedded into day-to-day activities.
 
 ### Data Owner
+Data owners are accountable for the definition, quality, and value of data within their assigned domains—usually one per domain. They make sure that there is lawful, appropriate and valuable use of smart metering data within the organisation, in alignment with the overall data strategy. 
+
+They are senior business leaders responsible for specific smart metering data domains such as consumption, billing, customer data and demand response and approve all data use, retention and sharing decisions, ensuring compliance with external regulations and prioritising accountability for data risks and breaches.
+
+Data management is a core responsibility for them, and they drive this early across the organisation to create a strong data foundation and set a clear precedent for effective data governance.
 
 ### Data Steward
+Data stewards are responsible for the operational oversight of assigned data and ensure all smart metering data is clearly defined, accurate, well understood and fit for purpose. They act on behalf of the data owner and manage data definitions, business rules, metadata and quality standards across the organisation. 
+
+They do this by interacting and collaborating closely with subject matter experts, business teams and technical teams to resolve day-to-day data issues, ensure standardisation across systems, and measure and monitor data quality requirements so that they are embedded at the source. 
 
 ### Data Custodian
 
