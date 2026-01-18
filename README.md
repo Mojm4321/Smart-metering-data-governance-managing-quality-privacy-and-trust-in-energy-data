@@ -120,3 +120,5 @@ DPOs advise on privacy by design, oversee data protection impact assessments, ac
 
 ### Technical Delivery Teams
 These teams implement governance controls within smart metering systems and processes to enforce standardisation and auditability. This is achieved by embedding privacy, security, data quality and proportionality controls by design, making them an integral part of the infrastructure from the start of the programme.
+
+## Controls & Mechanisms
