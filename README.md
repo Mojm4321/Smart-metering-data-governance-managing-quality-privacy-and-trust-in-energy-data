@@ -77,3 +77,23 @@ Strong ownership and collaboration enable timely issue resolution and support re
 - Safeguard data from cyber and physical threats, ensuring the confidentiality, availability and integrity of data across the national energy network.
 - Apply proportional data use controls, including data minimisation, to ensure that data collection, use, and retention are limited to what is necessary for defined legal, operational, and regulatory purposes.
 - Define clear ownership, roles and responsibilities across the smart metering lifecycle to ensure accountability, auditability, effective enforcement of regulatory obligations and sustainability of internal policies and standards.
+
+## Operating Model
+
+### Executive Governance Council 
+
+### Data Governance Council
+
+### Data Owner
+
+### Data Steward
+
+### Data Custodian
+
+### Data Quality Manager
+
+### Data Privacy Officer
+
+### Technical Delivery Teams
+
+ 
