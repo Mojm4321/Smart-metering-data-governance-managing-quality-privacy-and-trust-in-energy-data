@@ -72,16 +72,17 @@ Strong ownership and collaboration enable timely issue resolution and support re
 
 ![image](https://github.com/Mojm4321/Smart-metering-data-governance-managing-quality-privacy-and-trust-in-energy-data/blob/4c66075e150f47500da52c9bf64c7ce19df3b7c2/Objectives%202.png)
 
-- Privacy by design will be embedded into all smart metering systems and processes to ensure lawful, transparent, and consent-based data use in line with the UK GDPR, the Data Protection Act 2018, and relevant energy sector regulations, including the Smart Energy Code. Privacy risks and breaches will be identified, addressed and dealt with early in the data lifecycle.
+- Embed privacy by design into all smart metering systems and processes to ensure lawful, transparent, and consent-based data use in line with the UK GDPR, the Data Protection Act 2018, and relevant energy sector regulations, including the Smart Energy Code. Privacy risks and breaches will be identified, addressed, and dealt with early in the data lifecycle.
 - Establish a strong data quality culture to make sure that data is accurate, complete, and consistent from creation and collection through to downstream use, retention, and deletion. This will be supported by clear data quality dimensions and a published data quality framework to assess, monitor, and improve data quality at scale.
-- Safeguard data from cyber and physical threats, ensuring the confidentiality, availability and integrity of data across the national energy network.
+- Safeguard data from cyber and physical threats, ensuring the confidentiality, availability, and integrity of data across the national energy network.
 - Apply proportional data use controls, including data minimisation, to ensure that data collection, use, and retention are limited to what is necessary for defined legal, operational, and regulatory purposes.
-- Define clear ownership, roles and responsibilities across the smart metering lifecycle to ensure accountability, auditability, effective enforcement of regulatory obligations and sustainability of internal policies and standards.
+- Define clear ownership, roles, and responsibilities across the smart metering lifecycle to ensure accountability, auditability, effective enforcement of regulatory obligations, and sustainability of internal policies and standards.
 
 ## Operating Model 
 ![image](https://github.com/Mojm4321/Smart-metering-data-governance-managing-quality-privacy-and-trust-in-energy-data/blob/d1439b7a154b558d8a54f4e1f25df8548274ec78/Operating%20model%20J.png)
 
 ### Executive Governance Council 
+The Executive Governance Council sets the overall governance direction and provides strategic oversight across the organisation. It approves the policies and standards developed by the data governance council to make sure they align with regulatory obligations and the organisation’s strategic objectives. The council also ensures that all risks and breaches are highlighted and addressed promptly and provide senior sponsorship to formally support the organisation's plans, to avoid misinterpretation and to encourage consistent collaboration across teams. Most importantly, to ensure the effective execution of these plans, the Council guarantees sufficient investment in data governance capabilities throughout the smart metering programme lifecycle.
 
 ### Data Governance Council
 
