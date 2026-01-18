@@ -72,8 +72,8 @@ Strong ownership and collaboration enable timely issue resolution and support re
 
 ![image](https://github.com/Mojm4321/Smart-metering-data-governance-managing-quality-privacy-and-trust-in-energy-data/blob/4c66075e150f47500da52c9bf64c7ce19df3b7c2/Objectives%202.png)
 
-- Embed privacy by design into smart metering systems and processes to ensure lawful, transparent, and consent-based data use in line with UK GDPR, the Data Protection Act 2018, and relevant energy sector regulation, including the Smart Energy Code.
-- Build a data quality culture to make sure that data is accurate, complete, and consistent from creation/collection through to downstream use, retention, and deletion. This includes defining clear data quality dimensions and implementing a published data quality framework to assess, monitor, and improve data quality at scale.
-- Safeguard data from cyber and physical threats, ensuring the availability and integrity of data across the national energy network.
+- Privacy by design will be embedded into all smart metering systems and processes to ensure lawful, transparent, and consent-based data use in line with the UK GDPR, the Data Protection Act 2018, and relevant energy sector regulations, including the Smart Energy Code. Privacy risks and breaches will be identified, addressed and dealt with early in the data lifecycle.
+- Establish a strong data quality culture to make sure that data is accurate, complete, and consistent from creation and collection through to downstream use, retention, and deletion. This will be supported by clear data quality dimensions and a published data quality framework to assess, monitor, and improve data quality at scale.
+- Safeguard data from cyber and physical threats, ensuring the confidentiality, availability and integrity of data across the national energy network.
 - Apply proportional data use controls, including data minimisation, to ensure that data collection, use, and retention are limited to what is necessary for defined legal, operational, and regulatory purposes.
-- 
+- Define clear ownership, roles and responsibilities across the smart metering lifecycle to ensure accountability, auditability, effective enforcement of regulatory obligations and sustainability of internal policies and standards.
