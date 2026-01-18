@@ -121,4 +121,31 @@ DPOs advise on privacy by design, oversee data protection impact assessments, ac
 ### Technical Delivery Teams
 These teams implement governance controls within smart metering systems and processes to enforce standardisation and auditability. This is achieved by embedding privacy, security, data quality and proportionality controls by design, making them an integral part of the infrastructure from the start of the programme.
 
-## Controls & Mechanisms
+
+
+## Governance Controls
+
+
+To translate governance principles and objectives into consistent, day-to-day activities, a defined set of governing controls is required. With these controls, smart metering data is managed securely, lawfully, and proportionately throughout its lifecycle.
+
+## Policy and Standard Controls
+
+This provides the foundation for ensuring the protection and proper handling of personal and sensitive information for all smart metering consumers.
+
+- Data governance policy defining acceptable, lawful use, and accountability amongst data users in the organisation.
+- Privacy and data protection policy in alignment with UK GDPR, the Data Protection Act 2018, and the Smart Energy Code.
+- Security policy covering cyber and physical protection of smart metering systems.
+- Data retention and deletion standard specifying lawful retention periods and secure disposal - such as the 'Right To Be Forgotten'.
+- Data quality standards defining relevant quality dimensions, in this case, accuracy, completeness, consistency, and timeliness.
+
+These policies ensure that data is handled consistently across suppliers and third-party service providers to avoid regulatory risk.
+
+# Accountability & Ownership Controls
+
+Accountability turns policy into action.
+
+- Defined data owners, stewards and custodians.
+- Audit and reporting lines always available.
+- Data Governance Council and Executive Governance council.
+- Escalation and enforcment mechanisms in place in case of data breaches and system disrutions.
+- Clear data owners for each domain, to ensure accountability and compliance with external regulations and internal policies and standards.
