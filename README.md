@@ -1,4 +1,4 @@
-# (IN PROGRESS) Smart Metering Data Governance: Managing Data Quality, Privacy And Trust
+# Smart Metering Data Governance: Managing Data Quality, Privacy And Trust
 ## By Jolly Madamedon
 
 ![image](https://github.com/Mojm4321/Smart-metering-data-governance-managing-quality-privacy-and-trust-in-energy-data/blob/82f0020d383b195502946dcf12eddd78b1853a6f/Intro%20Case%20Study.png) 
@@ -111,7 +111,7 @@ Data quality managers manage governance and ensure process adherence so data mai
 
 This is achieved by defining data quality dimensions, publishing a data quality framework, implementing monitoring and reporting mechanisms, and coordinating remediation of quality issues across the data lifecycle, reducing manual effort in resolving problems. This approach ensures that data quality metrics are visible, actionable and aligned with operational and regulatory requirements. 
 
-### Data Privacy Officer
-
+### Data Privacy Officer (DPO)
+Data privacy officers are responsible for implementing and complying with data protection policies like UK GDPR and the Data Protetion Act 2018 and other data protection and privacy laws. They provide independent oversight of privacy risk within the smart meter programme by providing information and guidance on the processing of all personal and senstive data. This acts as a best practice guidance material for staff(other teams) they can use on a day to day basis, which means processing, coordination and response to all requests for information are handled accoding to regulations at all times. They advise privacy by design, oversee data protection impact assessments, have primary commnication with the ICO, and ensure that data usbject rights are upheld constantly. They also do privacy impact assessments for internal data privacy standards to encourage a culuture of privacy within the organisation first and create a data privacy process to follow at all times. 
 
 ### Technical Delivery Teams
