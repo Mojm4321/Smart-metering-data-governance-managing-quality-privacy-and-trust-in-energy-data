@@ -164,7 +164,10 @@ High data quality is essential to the success of a smooth and successufl smart m
 
 These controls are applied across the lifecycle to ensure data remains fit for purpose.
 
-## Conclusion 
+## Conclusion
+
+![image](https://github.com/Mojm4321/Smart-metering-data-governance-managing-quality-privacy-and-trust-in-energy-data/blob/47ec196d44a2780a98c43ed1a527b5fdb9d2358b/Conclusion.png)
+
 Smart metering data lies at the heart of innovation in the energy industry, but privacy and data management are what keep it safe. Strong governance is important to prevent security breaches, misuse of personal data, and poor data quality, as data subjects should feel confident that their data is always a priority and that all activities involving it comply with regulatory requirements. Moreover, an organisation cannot create value from data-driven innovation if it is not effectively managed and there are no governance controls in place.
 
 This case study demonstrates how a data governance framework can support secure, lawful, and proportionate use of smart metering data at a national scale.
