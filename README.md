@@ -78,7 +78,8 @@ Strong ownership and collaboration enable timely issue resolution and support re
 - Apply proportional data use controls, including data minimisation, to ensure that data collection, use, and retention are limited to what is necessary for defined legal, operational, and regulatory purposes.
 - Define clear ownership, roles and responsibilities across the smart metering lifecycle to ensure accountability, auditability, effective enforcement of regulatory obligations and sustainability of internal policies and standards.
 
-## Operating Model
+## Operating Model 
+![image](https://github.com/Mojm4321/Smart-metering-data-governance-managing-quality-privacy-and-trust-in-energy-data/blob/77cc5127b1f4b8ab2494a23c7cc44bd565288e32/Operating%20Model.png)
 
 ### Executive Governance Council 
 
