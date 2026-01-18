@@ -117,3 +117,4 @@ Data privacy officers are responsible for implementing and ensuring compliance w
 DPOs advise on privacy by design, oversee data protection impact assessments, act as the primary point of communication with the Information Commissioner's Office (ICO), and ensure that data subject rights are upheld at all times. Also, they conduct privacy impact assessments for internal departments to encourage a culture of privacy awareness and create consistent data privacy processes across the organisation.
 
 ### Technical Delivery Teams
+These teams implement governance controls within smart metering systems and processes to enforce standardisation and auditability. This is achieved by embedding privacy, security, data quality and proportionality controls by design, making them an integral part of the infrastructure from the start of the programme.
