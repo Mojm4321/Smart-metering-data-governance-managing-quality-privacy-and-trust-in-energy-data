@@ -139,6 +139,7 @@ This provides the foundation for ensuring the protection and proper handling of 
 - Privacy Impact Assessments to help identify and manage privacy risks in smart metering data.
 - Privacy by design embedded into systems at the start of the lifeycle.
 - Consent management and retaining documentation on consumer's choice.
+- Proportionate controls put in place to prioritise data that is only relevant to the data infrastructure.
 
 These policies ensure that data is handled consistently across suppliers and third-party service providers to avoid regulatory risk.
 
@@ -162,5 +163,10 @@ High data quality is essential to the success of a smooth and successufl smart m
 - Data quality dimensions applied across all data domains for clarity into the level of quality required at all times.
 
 These controls are applied across the lifecycle to ensure data remains fit for purpose.
+
+## Conclusion 
+Smart metering data lies at the heart of innovation in the energy industry, but privacy and data management are what keep it safe. Strong governance is important to prevent security breaches, misuse of personal data, and poor data quality, as data subjects should feel confident that their data is always a priority and that all activities involving it comply with regulatory requirements. Moreover, an organisation cannot create value from data-driven innovation if it is not effectively managed and there are no governance controls in place.
+
+This case study demonstrates how a data governance framework can support secure, lawful, and proportionate use of smart metering data at a national scale.
 
 
