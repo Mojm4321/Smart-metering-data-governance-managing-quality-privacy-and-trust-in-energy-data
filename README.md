@@ -107,10 +107,11 @@ Data custodians are technology specialists who are responsible for the secure st
 These measures are critical to ensure data availability, integrity and protection against cyber and physical threats, giving the organisation confidence that its infrastructure effectively manages data risks.
 
 ### Data Quality Manager
-Data quality manager manage governance and ensures process adherence so data maintains the high quality standard. In this case, they monitor, assess and improve smart metering data quality at scale which is important because data issues at this height can put pressure if there are not the correct output tools (issue logs and action plans) ready to protect the data's infrastructure.
+Data quality managers manage governance and ensure process adherence so data maintains the high quality standard. In this case of a one-off national smart metering rollout, they monitor, assess and improve smart metering data quality at scale, which is important because data issues at this level can put pressure on operations if correct output tools, such as issue logs and action plans, are not in place to protect the data infrastructure.
 
-This is achieved by defining data quality dimensions, publishing a data quality frameowrk, implementing monitoring and reporting mechanisms, and coordination remediation of quality issues across the data lifeycle, so there is less manual effort in solving them? This ensures that data quality metrics are visible, actionable and aligned with operational and regulatory requirements. 
+This is achieved by defining data quality dimensions, publishing a data quality framework, implementing monitoring and reporting mechanisms, and coordinating remediation of quality issues across the data lifecycle, reducing manual effort in resolving problems. This approach ensures that data quality metrics are visible, actionable and aligned with operational and regulatory requirements. 
 
 ### Data Privacy Officer
+
 
 ### Technical Delivery Teams
