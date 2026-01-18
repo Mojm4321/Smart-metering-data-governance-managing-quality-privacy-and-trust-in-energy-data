@@ -121,14 +121,13 @@ DPOs advise on privacy by design, oversee data protection impact assessments, ac
 ### Technical Delivery Teams
 These teams implement governance controls within smart metering systems and processes to enforce standardisation and auditability. This is achieved by embedding privacy, security, data quality and proportionality controls by design, making them an integral part of the infrastructure from the start of the programme.
 
-
-
 ## Governance Controls
 
+![image](https://github.com/Mojm4321/Smart-metering-data-governance-managing-quality-privacy-and-trust-in-energy-data/blob/0b6151b9318252ff50b337e4b668b146c3291cac/Governance%20controls%202.png)
 
 To translate governance principles and objectives into consistent, day-to-day activities, a defined set of governing controls is required. With these controls, smart metering data is managed securely, lawfully, and proportionately throughout its lifecycle.
 
-## Policy and Standard Controls
+## Policy, Standard and Consent Controls
 
 This provides the foundation for ensuring the protection and proper handling of personal and sensitive information for all smart metering consumers.
 
@@ -137,6 +136,9 @@ This provides the foundation for ensuring the protection and proper handling of 
 - Security policy covering cyber and physical protection of smart metering systems.
 - Data retention and deletion standard specifying lawful retention periods and secure disposal - such as the 'Right To Be Forgotten'.
 - Data quality standards defining relevant quality dimensions, in this case, accuracy, completeness, consistency, and timeliness.
+- Privacy Impact Assessments to help identify and manage privacy risks in smart metering data.
+- Privacy by design embedded into systems at the start of the lifeycle.
+- Consent management and retaining documentation on consumer's choice.
 
 These policies ensure that data is handled consistently across suppliers and third-party service providers to avoid regulatory risk.
 
@@ -149,3 +151,16 @@ Accountability turns policy into action.
 - Data Governance Council and Executive Governance council.
 - Escalation and enforcment mechanisms in place in case of data breaches and system disrutions.
 - Clear data owners for each domain, to ensure accountability and compliance with external regulations and internal policies and standards.
+
+## Data Quality Controls
+
+High data quality is essential to the success of a smooth and successufl smart metering programme. In this case, it helps with billing accuracy, analytics and regulatory reporting.
+
+- Metadata management, data dictionaries and business glossaries to support shared understanding and encourage collaboration across teams. Misinterpretation with no guidance to look back on can disrupt the wider data infrastructure and data integrity.
+- Consistent data quality monitoring to identify trends and systemic issues and address them as they happen or as soon as possible. This avoids a backlog of unresolved quality issues adding up.
+- Automated validation checks at data capture and collection stages to reduce downstream remediation efforts.
+- Data quality dimensions applied across all data domains for clarity into the level of quality required at all times.
+
+These controls are applied across the lifecycle to ensure data remains fit for purpose.
+
+
