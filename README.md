@@ -45,9 +45,9 @@ Effective governance addresses these risks by prioritising data integrity and qu
 It is important to note that compromised security results in serious consequences. These include financial errors, regulatory breaches, service disruption, and loss of public trust. Such incidents place immense pressure on both technical teams and organisations' response mechanisms, as companies must manage multiple risks simultaneously across systems.
 
 ### Privacy by design
-While security protects the system, privacy governance protects individuals. It ensures that smart metering data is collected, stored, shared, and used lawfully, with informed consent and clear transparency over how data is processed. For this reason, privacy protection should be embedded into smart metering systems from the outset, rather than added reactively.
+While security protects the system, privacy governance protects individuals. It ensures that smart metering data is collected, stored, shared, and used lawfully, with informed consent and clear transparency over how data is processed. That’s why privacy protection should be built into smart metering systems from the start, not added later.
 
-As consumption data is inherently personal and sensitive, privacy policies and standards must be applied consistently across the organisation, rather than being left to individual discretion. This consistency is achieved through clearly defined access rules, supported by access controls and senior oversight. Together, these measures define who can access the data, under what conditions, and for which specific purposes.
+As consumption data is personal and sensitive, privacy policies and standards need to be applied consistently across the whole organisation, not left to individual discretion. This consistency is achieved through clearly defined access rules, supported by access controls and senior oversight. Together, these measures define who can access the data, under what conditions, and for which specific purposes.
 
 In addition, strong privacy governance ensures that data use remains lawful, auditable and accountable. Where misuse occurs, defined escalation and enforcement mechanisms enable timely intervention, protecting data subjects and the organisation's exposure to regulatory penalties and reputational risk.
 
