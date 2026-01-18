@@ -21,15 +21,17 @@ By balancing the benefits of advanced data use with the protection of individual
 
 ![image](https://github.com/Mojm4321/Smart-metering-data-governance-managing-quality-privacy-and-trust-in-energy-data/blob/9a8c52c001c0edcd9c8b4e2040061d26a021eca7/Vision%20%26%20Mission.png) 
 
-Data is a vital business asset. However, few organisations have the governance frameworks required to manage data consistently throughout its lifecycle or to transform it into long-term business and societal value, despite many recognising its value.
+Data is a key business asset. However, few organisations have the governance frameworks required to manage data consistently throughout its lifecycle or to transform it into long-term business and societal value, despite many recognising its value.
 
 Effective data governance provides clarity around who is accountable for data, decision-making, and data use. Through defined policies, standards, and controls, governance aligns people, processes, and technology to maximise the value of data while ensuring its responsible, lawful, and value-driven use.
 
 ### Vision
-To establish a transparent, secure, and accurate smart metering data ecosystem that protects individuals' rights.
+
+Build a smart metering data system that is transparent, secure, accurate, and that protects people’s rights.
 
 ### Mission
-To design and implement a practical smart metering data governance framework that defines policies, standards, roles, responsibilities, and processes across the data lifecycle. The framework will prioritise data quality, privacy, security, storage, and proportionality by design, enabling responsible data use at a national scale.
+
+Create and implement a practical smart metering data governance framework that defines policies, standards, roles, responsibilities, and processes across the entire data lifecycle. This framework will focus on data quality, privacy, security, storage, and proportionality from the start, allowing responsible data use across the country.
 
 ## Governance Principles
 
