@@ -51,17 +51,17 @@ As consumption data is personal and sensitive, privacy policies and standards ne
 
 In addition, strong privacy governance ensures that data use remains lawful, auditable and accountable. Where misuse occurs, defined escalation and enforcement mechanisms enable timely intervention, protecting data subjects and the organisation's exposure to regulatory penalties and reputational risk.
 
-Furthermore, data subjects must be able to clearly understand and exercise their rights at any point, including making informed choices over data sharing and visibility into how their data is accessed, shared, and used. Transparent privacy governance, therefore, strengthens public trust while ensuring compliance with data protection and energy regulations.
+Furthermore, data subjects must be able to clearly understand and exercise their rights at any point, including making informed choices over data sharing and visibility into how their data is accessed, shared, and used. Transparent privacy governance, therefore, builds public trust while ensuring compliance with data protection and energy regulations.
 
 ### Proportionality
-To prevent unnecessary risk accumulation, the granularity, frequency, use, and retention of smart metering data must be proportionate to its intended purpose, because collecting more data than necessary increases governance risk without delivering additional value.
+To avoid unnecessary risks, the granularity, frequency, use, and retention of smart metering data must be proportionate to its intended purpose. Collecting more data than needed increases risk without adding value.
 
 This principle is implemented through data minimisation by limiting unnecessary collection and retention. As a result, organisations reduce duplication, data decay, and the compliance burden while ensuring data remains high-quality and aligned with external regulatory requirements.
 
 ### Quality
-Security, privacy, and proportionality are only effective if the data itself can be trusted. Smart metering data must therefore be accurate, complete, consistent, and timely to support billing, operational decision making, analytics, and regulatory reporting. 
+Security, privacy, and proportionality only work if the data can be trusted. Smart metering data needs to be accurate, complete, consistent, and timely to support billing, decision making, analytics, and regulatory reporting.
 
-Achieving this requires a structured data quality framework that defines the quality dimensions, embeds accountability, enables issues to be detected and resolved at source, and manages data quality throughout the data lifecycle. With clear standards, validation controls, and continuous monitoring, the data becomes fit for purpose.
+To achieve this, organisations need a structured data quality framework that establishes quality standards, assigns accountability, and enables issues to be identified and resolved at the source. With clear standards, checks, and ongoing monitoring, the data stays fit for its purpose.
 
 Consistent data management supported by collaboration between technical and business teams establishes a strong foundation for accurate data and consistent value creation.
 
