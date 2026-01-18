@@ -79,7 +79,7 @@ Strong ownership and collaboration enable timely issue resolution and support re
 - Define clear ownership, roles and responsibilities across the smart metering lifecycle to ensure accountability, auditability, effective enforcement of regulatory obligations and sustainability of internal policies and standards.
 
 ## Operating Model 
-![image](https://github.com/Mojm4321/Smart-metering-data-governance-managing-quality-privacy-and-trust-in-energy-data/blob/77cc5127b1f4b8ab2494a23c7cc44bd565288e32/Operating%20Model.png)
+![image](https://github.com/Mojm4321/Smart-metering-data-governance-managing-quality-privacy-and-trust-in-energy-data/blob/d1439b7a154b558d8a54f4e1f25df8548274ec78/Operating%20model%20J.png)
 
 ### Executive Governance Council 
 
